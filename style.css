@@ -1,1 +1,26 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #3498db; /* Blue background for header */
+    padding: 20px;
+    color: white;
+}
+
+main {
+    margin: 20px;
+}
+
+.blue-heading {
+    color: blue;
+}
+
+.red-paragraph {
+    color: red; 
+    font-size: 15px; 
+}
+
 
